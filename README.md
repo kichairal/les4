@@ -2,7 +2,7 @@
 # Titel van het recept
 pannenkoeken
 
-![Beschrijving van het recept](recept.jpg)
+![Beschrijving van het recept](pannenkoeken.jpg)
 
 ## BENODIGDHEDEN
 
@@ -15,4 +15,4 @@ pannenkoeken
 4. Leg de pannenkoek op een bord en dek het bord af met een grote deksel. Bak zo de rest van de pannenkoeken.
 5. Vergeet niet om iedere keer een beetje extra boter of olie in de pan te doen, voordat je een nieuwe pannenkoek bakt.
 
-[Bron van het recept](https://voorbeeld.nl/recept)
+[Bron van het recept](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
